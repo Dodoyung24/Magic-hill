@@ -1,7 +1,7 @@
 ﻿#Include %A_ScriptDir%\Lib\gui.ahk
 
 global repoOwner := "Dodoyung24"
-global repoName := "MagicHill"
+global repoName := "Magic-hill"
 global currentVersion := "v1.0"
 
 CheckForUpdates() {
