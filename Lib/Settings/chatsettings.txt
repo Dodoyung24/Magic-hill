@@ -1,2 +1,0 @@
-MessageToSend=
-ChatEnabled=0

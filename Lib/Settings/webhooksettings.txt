@@ -1,2 +1,0 @@
-WebhookURL=
-WebhookEnabled=0
